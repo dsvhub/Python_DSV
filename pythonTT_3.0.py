@@ -1,3 +1,10 @@
+###########################################################
+# Learn Python Coding In 2019
+# By Norman Morgan
+# dsvarietyhub.com
+#############################################################
+
+
 # Clear The Terminal or Screen
 import os
 os.system('clear')
